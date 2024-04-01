@@ -1,6 +1,5 @@
 # Nilesh A
-## Master of Science in Computer Science
-### HLA IMPUTATION USING MACHINE LEARNING
+### Language Translation using Transformers and Attention Mechanisms
 ### Overview
 - This project focuses on implementing a sequence-to-sequence model with attention mechanism using PyTorch. The model is designed to translate sentences from a source language to a target language. The dataset used for this task contains pairs of sentences in a low-resource language (source) and its corresponding English translation (target).
 
